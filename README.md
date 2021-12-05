@@ -16,6 +16,3 @@ You are kindly to install some packages before running the codes in Jupyter.
 (1) cv2
 (2) tensorflow
 
-If you have any questions when running the code, please don't hesitate to contact with me 
-via Email:zhouying19981130@163.com 
-     
